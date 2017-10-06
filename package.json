@@ -1,8 +1,8 @@
 {
     "name": "IonicYoutubeAPI",
-    "version": "0.0.1",
-    "author": "Ionic Framework",
-    "homepage": "http://ionicframework.com/",
+    "version": "1.0.0",
+    "author": "Nayan Dabhi",
+    "homepage": "https://github.com/nayan-dabhi",
     "private": true,
     "scripts": {
         "clean": "ionic-app-scripts clean",
